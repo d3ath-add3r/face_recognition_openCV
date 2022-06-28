@@ -6,7 +6,7 @@ A python code developed using openCV to store multiple users face data and detec
 ## Create conda env
 > conda create --name myenv
 
-> conda activate
+> conda activate myenv
 
 ## Install openCV
 
@@ -14,7 +14,7 @@ A python code developed using openCV to store multiple users face data and detec
 
 ## Clone Github repo
 
-> git clone 
+> git clone https://github.com/d3ath-add3r/face_recognition_openCV.git
 
 ## Run the python file
 > python add_user_and_reg.py
